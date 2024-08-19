@@ -1,5 +1,6 @@
 # QB-Banking
-https://github.com/ItzMuri/qb-banking/commit/2f61c826145d585d58cfd56db1dd32c4c78eb5b0
+![image](https://github.com/user-attachments/assets/523f599d-8dcd-43ed-bef5-f93456897438)
+
 ## Features
 - Handles all player interaction with bank/job/gang/shared accounts
 - ATM and bank card integration
